@@ -1,0 +1,20 @@
+#pragma once
+void nhapMang(int a[], int n);
+void xuatMang(int a[], int n);
+int timMax(int a[], int n);
+int timMin(int a[], int n);
+int demChan(int a[], int n);
+int demLe(int a[], int n);
+int timKiemTuyenTinh(int a[], int n, int x);
+int timKiemNhiPhan(int a[], int n, int x);
+int demSoLanXuatHien(int a[], int n, int x);
+int demLonHonX(int a[], int n, int x);
+int tongMang(int a[], int n);
+bool KTraSNT(int n);
+void xuatSNT(int a[], int n);
+bool KTraSoHoanThien(int n);
+void xuatSoHoanThien(int a[], int n);
+void xuatViTriChan(int a[], int n);
+void xuatViTriLe(int a[], int n);
+void xuatMaxMinViTri(int a[], int n);
+//void ghepMang(int b[], int m, int c[], int s, int a[]);
